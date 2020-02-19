@@ -1,7 +1,7 @@
 {
   "name": "culture-ships",
   "description": "Iain M. Banks Culture ship names as a module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "C J Silverio <ceejceej@gmail.com>",
   "bin": {
     "culture-ships": "culture-ship.js"
