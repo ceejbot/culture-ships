@@ -118,6 +118,7 @@ const ships = [
 	"GSV Sense Amid Madness, Wit Amidst Folly",
 	"GSV Size Isn't Everything",
 	"GSV So Much For Subtlety",
+	"GSV The Answer Is Almost Certainly Yes",
 	"GSV Teething Problems",
 	"GSV The Ends Of Invention",
 	"GSV Total Internal Reflection",
