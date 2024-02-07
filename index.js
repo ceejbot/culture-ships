@@ -177,6 +177,6 @@ exports.ships = ships;
 
 exports.random = function random()
 {
-    const random = Math.floor(Math.random() * (ships.length + 1));
+    const random = Math.floor(Math.random() * ships.length);
     return ships[random];
 };
